@@ -34,7 +34,7 @@
       margin-bottom: 20px;
       border: 1px solid #ccc;
     }
-    .blog-item *:last-of-type{
+    .blog-item *:last-child{
         margin-bottom:0;
         padding-bottom:0;
     }
